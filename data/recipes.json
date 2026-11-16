@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Scrambled Eggs",
+        "required": ["egg", "cheese", "olive oil"],
+        "time": 10,
+        "calories_per_person": 200
+    },
+    {
+        "name": "Pasta with Tomato Sauce",
+        "required": ["pasta", "tomato", "cheese"],
+        "time": 20,
+        "calories_per_person": 350
+    },
+    {
+        "name": "Chicken Saute",
+        "required": ["chicken", "onion", "tomato", "olive oil"],
+        "time": 25,
+        "calories_per_person": 320
+    },
+    {
+        "name": "Lentil Soup",
+        "required": ["lentil", "onion", "olive oil"],
+        "time": 35,
+        "calories_per_person": 180
+    },
+    {
+        "name": "Potato Stew",
+        "required": ["potato", "onion", "olive oil", "tomato"],
+        "time": 30,
+        "calories_per_person": 280
+    },
+    {
+        "name": "Cheese Toast",
+        "required": ["bread", "cheese"],
+        "time": 5,
+        "calories_per_person": 250
+    },
+    {
+        "name": "Egg Sandwich",
+        "required": ["egg", "bread", "tomato"],
+        "time": 10,
+        "calories_per_person": 310
+    },
+    {
+        "name": "Rice with Chicken",
+        "required": ["rice", "chicken", "onion", "olive oil"],
+        "time": 40,
+        "calories_per_person": 450
+    },
+    {
+        "name": "Tomato Soup",
+        "required": ["tomato", "onion", "olive oil", "flour"],
+        "time": 25,
+        "calories_per_person": 160
+    },
+    {
+        "name": "Fried Potatoes",
+        "required": ["potato", "olive oil"],
+        "time": 20,
+        "calories_per_person": 320
+    },
+    {
+        "name": "Omelette",
+        "required": ["egg", "onion", "olive oil"],
+        "time": 10,
+        "calories_per_person": 180
+    },
+    {
+        "name": "Cheese Omelette",
+        "required": ["egg", "cheese", "onion", "olive oil"],
+        "time": 12,
+        "calories_per_person": 260
+    },
+    {
+        "name": "Pasta with Cheese",
+        "required": ["pasta", "cheese", "milk"],
+        "time": 20,
+        "calories_per_person": 400
+    },
+    {
+        "name": "Chicken Soup",
+        "required": ["chicken", "onion", "potato", "parsley"],
+        "time": 45,
+        "calories_per_person": 280
+    },
+    {
+        "name": "Rice Pilaf",
+        "required": ["rice", "onion", "olive oil"],
+        "time": 25,
+        "calories_per_person": 220
+    },
+    {
+        "name": "Lentil and Rice",
+        "required": ["lentil", "rice", "onion", "olive oil"],
+        "time": 40,
+        "calories_per_person": 350
+    },
+    {
+        "name": "Cucumber Salad",
+        "required": ["cucumber", "tomato", "olive oil", "parsley"],
+        "time": 5,
+        "calories_per_person": 80
+    },
+    {
+        "name": "Bread with Cheese",
+        "required": ["bread", "cheese"],
+        "time": 2,
+        "calories_per_person": 300
+    },
+    {
+        "name": "Potato Soup",
+        "required": ["potato", "onion", "milk", "olive oil"],
+        "time": 30,
+        "calories_per_person": 240
+    },
+    {
+        "name": "Tomato and Egg",
+        "required": ["tomato", "egg", "onion", "olive oil"],
+        "time": 15,
+        "calories_per_person": 190
+    },
+    {
+        "name": "Pancake",
+        "required": ["flour", "egg", "milk"],
+        "time": 15,
+        "calories_per_person": 350
+    },
+    {
+        "name": "French Toast",
+        "required": ["bread", "egg", "milk"],
+        "time": 10,
+        "calories_per_person": 280
+    },
+    {
+        "name": "Chicken with Pasta",
+        "required": ["chicken", "pasta", "tomato", "olive oil"],
+        "time": 30,
+        "calories_per_person": 480
+    },
+    {
+        "name": "Vegetable Soup",
+        "required": ["potato", "tomato", "onion", "parsley", "olive oil"],
+        "time": 35,
+        "calories_per_person": 150
+    },
+    {
+        "name": "Fried Egg",
+        "required": ["egg", "olive oil"],
+        "time": 5,
+        "calories_per_person": 140
+    }
+]

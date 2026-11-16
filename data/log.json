@@ -1,0 +1,11 @@
+{
+    "2026-06-25": {
+        "meals": [
+            {
+                "meal": "Fried Egg",
+                "calories": 140
+            }
+        ],
+        "total_calories": 140
+    }
+}
